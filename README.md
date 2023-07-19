@@ -1,4 +1,4 @@
-# esx_hunting
+# esx_murder
 
 [REQUIREMENTS]
   
@@ -9,6 +9,6 @@
 1) CD in your resources/[esx] folder
 
 2) Add this in your server.cfg :
-``start esx_hunting``
+``start esx_murder``
 
 3) ``import items.sql``
